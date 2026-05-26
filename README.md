@@ -1,15 +1,14 @@
-# Hi, I'm Jahnavvi 👋
+# Hey There! I'm Jahnavvi :) 
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building creative and technical projects — from 3D web apps to games, simulations, and systems software.
+Welcome to my GitHub profile! I'm a passionate developer who loves building creative and technical projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student with a love for both software engineering and game development
+- 🎓 Computer Science graduate with a love software engineering
 - 💡 I enjoy turning complex ideas into clean, functional applications
-- 🌐 Experienced with **full-stack web development**, **systems programming**, and **Unity game dev**
-- 🔭 Currently exploring: 3D graphics, Gaussian splatting, and network simulation
+- 🌐 Experienced with **full-stack web development**, **systems programming**, **data structures**, and **algorithms**
 
 ---
 
