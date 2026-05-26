@@ -1,4 +1,4 @@
-# Hey There! I'm Jahnavvi :) 
+# Hey There! I'm Jahnavi :) 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building creative and technical projects.
 
