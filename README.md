@@ -1,4 +1,4 @@
-# Hey, I'm Jahnavi 👋
+# Hi! I'm Jahnavi :)
 
 I'm a Computer Science graduate from **San Diego State University** with a minor in Mathematics. I'm focused on building things that leave a lasting impact on users, whether that's a full-stack web app, a systems-level simulation, or something AI-powered.
 
@@ -6,7 +6,7 @@ My background spans frontend and backend development, operating systems, network
 
 ---
 
-## 🚀 What I Bring to the Table
+## What I Bring to the Table
 
 - 🎓 **CS + Math background** with a strong theoretical foundation and hands-on engineering experience
 - 🛠️ **Full-stack to systems** and comfortable across the entire stack, from pixel-perfect UIs to low-level memory management
